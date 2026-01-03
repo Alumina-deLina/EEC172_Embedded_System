@@ -1,0 +1,19 @@
+body {
+  --h1-color: #5e8fd1;
+  --h2-color: mediumseagreen;
+  --h3-color: #f9d939;
+  --h4-color: tomato;
+  --h5-color: #ed768e;
+  --h6-color: orchid;
+  --bold-color: skyblue;
+  --italic-color: skyblue;
+  --link-color: skyblue;
+  --link-color-hover: paleturquoise;
+  --tag-color: dodgerblue;
+  --tag-color-hover: dodgerblue;
+}
+
+.cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.markdown-rendered :not(pre) > code {
+    color: #ff4c6e;
+}

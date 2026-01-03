@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "notes.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "140d497302fe1582",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9fbe960eaad36b40",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0cfcc9481a644566",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#food/recipe",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "d11a5cfb9415d402",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "20f460621e58fb04",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "669c7721bfb0826a",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ebad34f5b535ed99",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f6ca391e57f530b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "csc/csc running todo.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "eef3fa4af0c8003c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "projects/scones/improving traffic capture.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "6ae44d4cf28c1797",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "projects/scones/improving traffic capture.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "ramblings/baingan bharta (wip).md",
+    "notes.base",
+    "ramblings/docker and nftables.md",
+    "gonna buy sweaters i think-img1.png",
+    "ramblings/కో in verbs.md",
+    "csc/csc running todo.md",
+    "ramblings/bluefin linux - initial setup.md",
+    "ramblings/tomato pappu.md",
+    "ramblings/dec 2025 officer meeting agenda.md",
+    "ramblings/csv processing.md",
+    "PHI013 - L16-img1.png",
+    "PHI013 - L16-img3.png",
+    "PHI013 - L16-img4.png",
+    "PHI013 - L16-img5.png",
+    "PHI013 - L16-img2.png",
+    "courses/PHI013 - L16.md",
+    "EEC170 - L17 - Modern CPUs & GPUs-img12.png",
+    "EEC170 - L17 - Modern CPUs & GPUs-img2.png",
+    "EEC170 - L17 - Modern CPUs & GPUs-img11.png",
+    "EEC170 - L17 - Modern CPUs & GPUs-img5.png",
+    "courses/EEC170 - L17 - Modern CPUs & GPUs.md",
+    "ramblings/cabbage fry.md",
+    "courses/EEC170 - HW5.md",
+    "ramblings/gonna buy sweaters i think.md",
+    "ramblings/an interesting analogy for oss.md",
+    "ramblings/list of statuses.md",
+    "ramblings/chaaru.md",
+    "ramblings/sambar.md",
+    "ramblings/Stickers.md",
+    "courses/EEC100 - Phase Shift and Period.md",
+    "courses/EEC170 - HW2.md",
+    "courses/EEC170 - HW1.md",
+    "ramblings/things to buy - start of year 3.md",
+    "ramblings/potato fry.md",
+    "ramblings/things to buy - before year 3.md",
+    "csc/competitions/leaky-rsa (ictf2025).md",
+    "csc/infra/Zone Diagram.canvas",
+    "ramblings/xrdp over ssh tunnel.md",
+    "csc/Team Tactics 2026.canvas"
+  ]
+}
